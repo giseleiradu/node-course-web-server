@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/050%20Section%20Intro.mp4</location>
+			<duration>63446</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/051%20Mocha%20and%20Basic%20Testing.mp4</location>
+			<duration>1001430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/052%20Watch%20and%20Auto%20Restart%20Tests.mp4</location>
+			<duration>243542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/053%20Using%20an%20Assertion%20Library.mp4</location>
+			<duration>1265472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/054%20Testing%20Asynchronous%20Code.mp4</location>
+			<duration>685590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/055%20Testing%20Express%20Applications_%20Part%20I.mp4</location>
+			<duration>196694</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/056%20Testing%20Express%20Applications_%20Part%20II.mp4</location>
+			<duration>1152960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/057%20Organizing%20Test%20With%20describe%28%29.mp4</location>
+			<duration>405014</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///G:/the-complete-nodejs-developer-course-2/06%20Testing%20Your%20Applications%20-%201hr40mins/058%20Test%20Spies.mp4</location>
+			<duration>965355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
